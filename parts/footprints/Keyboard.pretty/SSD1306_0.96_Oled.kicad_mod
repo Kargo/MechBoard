@@ -73,4 +73,9 @@
   (pad "2" thru_hole circle (at -1.27 -11.5) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 9e69db92-14b2-454e-8b99-bb0ff285ea7d))
   (pad "3" thru_hole circle (at 1.27 -11.5) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp e39027c7-8c9a-476d-8478-6028905607a8))
   (pad "4" thru_hole circle (at 3.81 -11.5) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp b0c2a4cc-1373-40d0-8305-d86487cbfea1))
+  (model "${KIPRJMOD}/parts/models/Pantalla OLED 0.96'' 128x64.step"
+    (offset (xyz 0 0 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
