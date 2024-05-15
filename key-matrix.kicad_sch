@@ -2524,7 +2524,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "02de4b9c-dae9-40d0-895b-56e073d18f41")
-		(property "Reference" "D105"
+		(property "Reference" "D103"
 			(at 37.338 65.278 90)
 			(effects
 				(font
@@ -2599,18 +2599,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a3362ab8-d09b-4d5c-86bd-798098c726b0")
+			(uuid "4a90f0ca-0b9c-4505-82a8-073fe09b6f45")
 		)
 		(pin "2"
-			(uuid "6e2e0f28-ba67-48b2-bfc0-7815237500b9")
+			(uuid "7a7ca407-21db-4f04-a63c-9a34b9b1d03e")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D105")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D103")
@@ -2629,7 +2623,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "03bc84f6-d683-4935-a674-c3e24f0ba73e")
-		(property "Reference" "D112"
+		(property "Reference" "D110"
 			(at 90.678 34.798 90)
 			(effects
 				(font
@@ -2704,18 +2698,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c09deb39-650e-4d97-8855-eef6f94dedae")
+			(uuid "48d5c490-0439-4f17-804f-55332ae6f1f5")
 		)
 		(pin "2"
-			(uuid "eefad3c5-ba3b-484f-94f3-703eabdaf713")
+			(uuid "38da54c1-6a36-48df-915f-ceb027118b77")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D112")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D110")
@@ -2779,18 +2767,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6f3b81e8-fd00-4f44-a479-f849b7741d4b")
+			(uuid "6d9fe9ee-fc1f-4a81-a19d-8854a22563a0")
 		)
 		(pin "2"
-			(uuid "c0f6ec02-4fd7-4948-9c25-149400539b77")
+			(uuid "8e819f03-cc08-4a6d-941d-e2a9a81cb37f")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX115")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX115")
@@ -2854,18 +2836,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "d93f5780-e63b-4570-ba54-859a61585e24")
+			(uuid "d04ccb2f-7b63-40e9-bfdf-612ba7788beb")
 		)
 		(pin "2"
-			(uuid "6b0dd4b0-6607-4a2a-b9f6-d072ffa2eac1")
+			(uuid "cb7825b4-eece-4c93-b0dc-4c1d782342ce")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX117")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX117")
@@ -2883,7 +2859,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "19201c5b-d840-401b-aece-87c8ccafccf3")
-		(property "Reference" "J104"
+		(property "Reference" "J4"
 			(at 185.928 30.988 0)
 			(effects
 				(font
@@ -2930,24 +2906,18 @@
 			)
 		)
 		(pin "1"
-			(uuid "63b0d6d2-7669-418b-ae59-e9d6e3845919")
+			(uuid "3eeaf807-aeef-473f-8953-90972812789f")
 		)
 		(pin "2"
-			(uuid "ee871228-1556-42d1-a397-9af806236bc7")
+			(uuid "0a449538-8481-4a8d-96e1-93f50289b781")
 		)
 		(pin "3"
-			(uuid "e63c56f5-987a-4509-86c5-a2aefe0710ab")
+			(uuid "23d7b292-77a0-4019-ae58-513612c0998a")
 		)
 		(pin "4"
-			(uuid "a760bac9-8c44-4c7f-b1d4-b415f7e9b9d7")
+			(uuid "43034439-2d57-499f-a409-b1826a95e58b")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/f28c023c-5345-4c19-9d2c-61cc52427b4f"
-					(reference "J104")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "J4")
@@ -2966,7 +2936,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1953acd2-6235-417b-a140-8f772396d806")
-		(property "Reference" "D118"
+		(property "Reference" "D116"
 			(at 108.458 65.278 90)
 			(effects
 				(font
@@ -3041,18 +3011,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "94b9db8e-ca9d-4db8-85e2-6ed31e77de38")
+			(uuid "ee6ec8b4-7e96-4d6f-8c53-bef0d0273851")
 		)
 		(pin "2"
-			(uuid "e4da58fd-8c4b-412b-bd87-b905eef9de1b")
+			(uuid "8e92d6bb-a4ec-4731-a892-91c32d22c316")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D118")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D116")
@@ -3116,18 +3080,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "26dcefc9-7851-4a9c-8277-b92ba268f0de")
+			(uuid "a4ca7bf3-9301-4af9-8056-9f1ba0598910")
 		)
 		(pin "2"
-			(uuid "3b394b18-bd14-4090-adec-e1d65f2b8829")
+			(uuid "137ffa7d-dff8-45f5-969f-5eb9c03622ef")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX105")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX105")
@@ -3191,18 +3149,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "037b3c02-d2db-4cff-8ed7-ac1aaaa20ce7")
+			(uuid "0adf1964-4ebd-4f1d-95dd-c02086e26542")
 		)
 		(pin "2"
-			(uuid "c98df2c6-ddaf-4496-8663-08ebeb188ecb")
+			(uuid "af6cee3f-a7e7-4246-9e61-55a2f1f9dc1d")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/f28c023c-5345-4c19-9d2c-61cc52427b4f"
-					(reference "R107")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "R107")
@@ -3267,7 +3219,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b64bf97d-843e-4384-879a-c6cfd5028f66")
+			(uuid "4f46aaf3-797f-43eb-8a94-07bfd4f012f8")
 		)
 		(instances
 			(project "Interface"
@@ -3334,7 +3286,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5c168a13-e97d-4c25-86cc-2af84bcab5b8")
+			(uuid "5e26fe86-6d48-479b-aca2-071793756d1c")
 		)
 		(instances
 			(project "Interface"
@@ -3401,7 +3353,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fb98b243-b590-462e-8dea-3cfae976ad02")
+			(uuid "ca7d57ab-c199-4f46-b54b-bd9d21a25755")
 		)
 		(instances
 			(project "Interface"
@@ -3468,7 +3420,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9ea131d3-01c5-40a0-b72a-c86e3ed537a1")
+			(uuid "0e6b20b0-628b-4252-bea8-6244458e84f5")
 		)
 		(instances
 			(project "Interface"
@@ -3535,7 +3487,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "621f14e4-47fa-4f7d-809c-a20cbe7f7074")
+			(uuid "2979fc22-f542-412d-8fb6-7b90995d4cb1")
 		)
 		(instances
 			(project "Interface"
@@ -3601,18 +3553,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c0c7b690-feb3-4a6d-a5d1-b673d98335a0")
+			(uuid "7e0399c0-2359-4cc5-8afb-a4fa2b12960f")
 		)
 		(pin "2"
-			(uuid "3b2d0b79-63d0-4a34-bf6f-78f7109c0f90")
+			(uuid "764dd2f2-8d8b-4f48-afff-415edd82d377")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX106")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX106")
@@ -3676,18 +3622,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "370fcf14-0f11-43ed-a822-bfb090d260d2")
+			(uuid "80a721b6-af66-4642-8a97-55e6846c4b8b")
 		)
 		(pin "2"
-			(uuid "9c134ac4-726d-4cd6-bcc0-3a487a584e5b")
+			(uuid "6994f55b-7b3d-439b-b299-6fb9d2eb2d7b")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX116")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX116")
@@ -3751,18 +3691,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9c378ed8-f276-4f17-80bf-59a3a1e4e1e6")
+			(uuid "5c824f15-ce14-4701-b52d-1d3eb24c17ad")
 		)
 		(pin "2"
-			(uuid "b5c0840f-5df1-4fd2-a54f-8db2b0811933")
+			(uuid "cbfbb703-477d-4463-9337-16e4e3e185fc")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX110")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX110")
@@ -3827,7 +3761,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3dd358ad-1b0f-491a-ab26-d0c4e4d0ea70")
+			(uuid "6b36c01e-a4c0-43cc-bd92-f7adb2219d16")
 		)
 		(instances
 			(project "Interface"
@@ -3893,18 +3827,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b2f72ec2-5186-48ba-8f89-4d377558972d")
+			(uuid "6a90da46-9527-40b3-9e86-d1e7f6bbba37")
 		)
 		(pin "2"
-			(uuid "50cd200d-9893-45b3-bacb-24864fe36952")
+			(uuid "7ed34bc0-c8fc-49dc-b334-90b2f76d22bf")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX111")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX111")
@@ -3968,18 +3896,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9f1a8cbf-dde4-4ce1-bb59-1af1fe528d92")
+			(uuid "0eb17908-1349-4e8f-98bd-d312c1a4a30c")
 		)
 		(pin "2"
-			(uuid "c446e970-f2ca-4bd2-91ab-8d19899ce5cb")
+			(uuid "918fb79b-264a-4919-a72c-77586b68e2d6")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX101")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX101")
@@ -3998,7 +3920,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "483c1721-4277-4bde-a8fa-722aa39b52cb")
-		(property "Reference" "D103"
+		(property "Reference" "D101"
 			(at 37.338 34.798 90)
 			(effects
 				(font
@@ -4073,18 +3995,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "810a4cb8-bdc2-4f3a-9606-c4cfa7fa2646")
+			(uuid "035711ad-da3d-44f2-afc6-289881cbf92b")
 		)
 		(pin "2"
-			(uuid "bff3c4f3-0cf8-4925-b2b4-f7a6dd17f0e8")
+			(uuid "579b2281-71e7-484b-a3ac-af9a2af5e91a")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D103")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D101")
@@ -4103,7 +4019,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4bcd2c29-b2cb-4114-b953-e0ff951b4095")
-		(property "Reference" "D115"
+		(property "Reference" "D113"
 			(at 90.678 80.518 90)
 			(effects
 				(font
@@ -4178,18 +4094,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a0aa338d-c61a-4216-95b1-2d43422643e9")
+			(uuid "53428021-93af-4479-9264-55eda285aa8a")
 		)
 		(pin "2"
-			(uuid "ffa11d04-2e2e-4ccf-b310-c67e93154464")
+			(uuid "d2e299e1-19fe-48b3-ab64-4fae5314b22f")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D115")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D113")
@@ -4253,18 +4163,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "62b0b850-3155-4d3b-8b03-ab5a8193a652")
+			(uuid "6de4abce-4d00-4a42-a843-6c553c6a9aeb")
 		)
 		(pin "2"
-			(uuid "06ba95a9-20b9-491a-9762-e81f6a1ee5ac")
+			(uuid "05a89833-4f66-4c32-9e5f-aa8c0107f16f")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX112")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX112")
@@ -4328,18 +4232,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9437da58-89dc-442e-978f-ec96a83ada67")
+			(uuid "c401f95d-4dc0-4fd0-b44a-d9d5de71a644")
 		)
 		(pin "2"
-			(uuid "d872aac3-53ee-4aeb-97eb-0dc2af073bfc")
+			(uuid "f14fb7ac-d4e3-457d-ae14-ca03d507d310")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX114")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX114")
@@ -4404,7 +4302,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8f2aa179-df75-4a22-9357-3880d4a5f467")
+			(uuid "cda33140-f4e2-4e89-aa97-2d731b75908b")
 		)
 		(instances
 			(project "Interface"
@@ -4425,7 +4323,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5fccfc08-d53e-4ce9-9c88-f3eda7b5e954")
-		(property "Reference" "D117"
+		(property "Reference" "D115"
 			(at 108.458 50.038 90)
 			(effects
 				(font
@@ -4500,18 +4398,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "72e6ecf3-da49-4d69-81fc-fdedec25f752")
+			(uuid "8cacde9d-537e-4b38-8125-5f2508ce7634")
 		)
 		(pin "2"
-			(uuid "04288e33-e16a-4bb3-bece-d45a54718d45")
+			(uuid "9a5271e0-8ffb-42c2-98f1-3cb67d4ca5b2")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D117")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D115")
@@ -4576,7 +4468,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c7ec9459-f15f-4e96-a9b3-133ccec00fe8")
+			(uuid "a97ff575-f909-4a7d-aaa7-ec29aba28d2b")
 		)
 		(instances
 			(project "Interface"
@@ -4597,7 +4489,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "740586ec-0fcf-40f8-bbe6-e1a954eff8e7")
-		(property "Reference" "D110"
+		(property "Reference" "D108"
 			(at 72.898 50.038 90)
 			(effects
 				(font
@@ -4672,18 +4564,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "cbdba8b6-3f57-45b6-ae91-5899bd88f8b6")
+			(uuid "a86d554c-67ce-4149-b7d8-653f4a08c8bc")
 		)
 		(pin "2"
-			(uuid "35a2bc2d-9576-4e5f-b7ae-3aae7c380fcb")
+			(uuid "82008995-1cad-423e-a5fd-5e57ea201bf1")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D110")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D108")
@@ -4702,7 +4588,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75251145-61f8-41eb-be68-20470e82cf49")
-		(property "Reference" "D107"
+		(property "Reference" "D105"
 			(at 55.118 50.038 90)
 			(effects
 				(font
@@ -4777,18 +4663,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "363b1d75-2306-4bdd-b282-0ce54bc11a85")
+			(uuid "c2a24888-a06d-4eb2-8cf3-88f1c75b4b31")
 		)
 		(pin "2"
-			(uuid "661ac635-b849-4a0e-b7ad-de06fbdf02fe")
+			(uuid "ff3d2e04-6f40-4cf9-aaf9-ac6cbcf6a544")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D107")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D105")
@@ -4853,7 +4733,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8ae717d1-8b45-4e1b-9a41-25e39bba257a")
+			(uuid "5b079b08-4450-4b85-ba89-d216e44e5ad4")
 		)
 		(instances
 			(project "Interface"
@@ -4920,7 +4800,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "90b7dee9-3da0-49fe-b7e6-a914bc1c1e7e")
+			(uuid "debce599-2eb0-41b9-8f1d-4f2c113a1e78")
 		)
 		(instances
 			(project "Interface"
@@ -4986,18 +4866,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e1c4ea64-eb99-4a8e-8e94-e9d73b66188f")
+			(uuid "b252406a-f64d-4b36-a223-d9890d0ca682")
 		)
 		(pin "2"
-			(uuid "58800b0d-67b6-4bc1-b7d5-39137af4ee6e")
+			(uuid "30e54fdc-f2e9-4322-9ba7-62f0e7f9b722")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX102")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX102")
@@ -5061,16 +4935,16 @@
 			)
 		)
 		(pin "T"
-			(uuid "4baf286d-ee32-4dbf-883c-35c6db919363")
+			(uuid "75d1c51c-2b68-4eea-a97b-6246836eff26")
 		)
 		(pin "S"
-			(uuid "0cd4319d-6dc8-44c1-ab1b-de24a64e3a0f")
+			(uuid "bce21945-ba32-4f9a-869f-4a5de7d04703")
 		)
 		(pin "R1"
-			(uuid "78166b06-270b-4f76-8d88-29f615817a79")
+			(uuid "24519aa4-6e82-4331-9aaa-984fe1b21fb7")
 		)
 		(pin "R2"
-			(uuid "8ca7f058-d676-416c-9eec-71b66629f98c")
+			(uuid "48c221b9-f82c-438a-ab95-54d430eb013f")
 		)
 		(instances
 			(project "Interface"
@@ -5136,18 +5010,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0efbb9a5-f1f1-47fe-9b5c-0ea41c38dd2e")
+			(uuid "2d083249-5bfb-4a8b-a62a-6c921adbd3d3")
 		)
 		(pin "2"
-			(uuid "025fcef9-7190-4398-8ebb-01a2a45d464f")
+			(uuid "3aced168-2d68-4de8-a0fe-303a2c388e9e")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX107")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX107")
@@ -5212,7 +5080,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4fafed7c-da3a-4edd-aedf-e2333afd6844")
+			(uuid "a21f3a9b-f87e-47e0-9fc4-5a73dcd1ee56")
 		)
 		(instances
 			(project "Interface"
@@ -5233,7 +5101,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aa3ce1b0-6203-47a4-bf71-17906b83ed19")
-		(property "Reference" "D111"
+		(property "Reference" "D109"
 			(at 72.898 65.278 90)
 			(effects
 				(font
@@ -5308,18 +5176,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e26abf73-beed-48b4-a9e1-358050714f98")
+			(uuid "fb5e7900-741c-46e9-b71e-ffbb5d49e013")
 		)
 		(pin "2"
-			(uuid "5bc071a8-fe9a-460f-b1cc-e31391a5b9d6")
+			(uuid "8bfff0ef-3c90-41fa-a4a9-aecc1039830c")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D111")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D109")
@@ -5383,18 +5245,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3a6af286-e90e-4cc0-b61d-42919f285519")
+			(uuid "43d5a5a9-83c9-4cf4-8830-65cb4832747f")
 		)
 		(pin "2"
-			(uuid "ddebbe6e-be22-40b2-a379-ceaf03737b50")
+			(uuid "d5812acc-5082-4260-91af-e4367119b2d1")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX109")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX109")
@@ -5459,7 +5315,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2c18d941-7bfd-440f-8f57-1fc14537cf15")
+			(uuid "43132dbf-b921-4948-ad7f-06b7f7f9bd48")
 		)
 		(instances
 			(project "Interface"
@@ -5480,7 +5336,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be4c7436-5719-43a5-b085-2b1ea36fd410")
-		(property "Reference" "D104"
+		(property "Reference" "D102"
 			(at 37.338 50.038 90)
 			(effects
 				(font
@@ -5555,18 +5411,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c01525fd-863f-4b74-a831-29422d9d63b8")
+			(uuid "b921195f-fb54-4b39-bb27-bbe26005815f")
 		)
 		(pin "2"
-			(uuid "ae28aba3-4a09-43b6-8b13-9af9f346b60d")
+			(uuid "b5ed5f98-43f7-4ffc-b0d1-f507d5a56510")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D104")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D102")
@@ -5630,18 +5480,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6982ba7c-7321-4128-971c-cd838fb153d9")
+			(uuid "bced08f3-2ff4-4ccb-9e46-90b168401264")
 		)
 		(pin "2"
-			(uuid "8e36bf53-f78d-498b-a52d-f2b3b51cef51")
+			(uuid "ca6ba18f-c0fe-4581-9c4a-3477fc93d01c")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/f28c023c-5345-4c19-9d2c-61cc52427b4f"
-					(reference "R106")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "R106")
@@ -5660,7 +5504,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf9a7ae5-0d58-4e31-a70f-29895bd9ac6c")
-		(property "Reference" "D119"
+		(property "Reference" "D117"
 			(at 108.458 80.518 90)
 			(effects
 				(font
@@ -5735,18 +5579,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a91e2829-b4f0-46a4-a508-91ae452a3dec")
+			(uuid "c7d9e228-eae7-418d-95a6-ed8e947c5541")
 		)
 		(pin "2"
-			(uuid "9f9e0f31-9127-4921-b800-551e08590b61")
+			(uuid "e95e561e-0515-4f64-b234-b025f6e2bec9")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D119")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D117")
@@ -5811,7 +5649,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b6428a2e-8a00-4568-ad53-78a03d31f2d5")
+			(uuid "31b0eded-54f0-4eff-9372-2539245035b0")
 		)
 		(instances
 			(project "Interface"
@@ -5831,7 +5669,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c73530cd-e4e8-497b-a6c6-3f0eb0a1ef6c")
-		(property "Reference" "#PWR0155"
+		(property "Reference" "#PWR0134"
 			(at 168.656 34.798 0)
 			(effects
 				(font
@@ -5876,15 +5714,9 @@
 			)
 		)
 		(pin "1"
-			(uuid "672ea7d7-cb58-4ffe-94a8-be59e575c97e")
+			(uuid "a4c4eda0-5ad4-4a70-95ef-60d7cfc4513c")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/f28c023c-5345-4c19-9d2c-61cc52427b4f"
-					(reference "#PWR0155")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "#PWR0134")
@@ -5903,7 +5735,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c7cd15ea-d7c6-46cf-9214-77163163b90a")
-		(property "Reference" "D116"
+		(property "Reference" "D114"
 			(at 108.458 34.798 90)
 			(effects
 				(font
@@ -5978,18 +5810,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a580517d-96d2-4e01-8405-7b533438b122")
+			(uuid "aea3a294-52c5-49f6-807e-39cd405a3190")
 		)
 		(pin "2"
-			(uuid "26f3c267-14ed-43c2-b103-f86203ea842f")
+			(uuid "c68796c2-ffb5-40c2-94fa-31e084d9c5b6")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D116")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D114")
@@ -6053,18 +5879,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f1009aa8-750d-4f63-822c-7a423dec5731")
+			(uuid "dcca1194-5acf-475f-9392-5ddadb1a1a70")
 		)
 		(pin "2"
-			(uuid "b55ba189-cfe5-4953-9ecf-b74c1d76a0af")
+			(uuid "e8b89729-862b-4d7d-bc3b-a645bc84eac9")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX103")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX103")
@@ -6083,7 +5903,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c9dd4df7-c516-4bd7-bdc8-33f39639f8cb")
-		(property "Reference" "D113"
+		(property "Reference" "D111"
 			(at 90.678 50.038 90)
 			(effects
 				(font
@@ -6158,18 +5978,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e9c07517-86fc-4ed9-93e3-3fc6861debc0")
+			(uuid "856a0538-747c-4f7c-8c7b-25fd19eff740")
 		)
 		(pin "2"
-			(uuid "d9ff07c0-51ac-456f-9022-01d69483ffe0")
+			(uuid "ba934fb4-3fcf-4944-a177-8e0db13bb4e4")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D113")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D111")
@@ -6234,7 +6048,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2c287f00-b51b-4085-9e78-aab09dd3fc92")
+			(uuid "fe8e199b-42ef-42af-9883-adc0928bf716")
 		)
 		(instances
 			(project "Interface"
@@ -6300,18 +6114,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "3836761e-93d6-4b86-bcbb-a56f28349edc")
+			(uuid "76a98f53-ac12-437e-a727-6c2e415dafca")
 		)
 		(pin "2"
-			(uuid "942010b4-5d0b-4002-ae0d-8525e27baf10")
+			(uuid "5db97b1c-f93b-4ea3-afcd-20e772da61c7")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX108")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX108")
@@ -6374,18 +6182,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "815a87a3-25b9-4720-a5a3-1c3a7525fd99")
+			(uuid "79bb57c6-9280-4e3e-b2c6-0d39de15a554")
 		)
 		(pin "2"
-			(uuid "4633ac4d-6bfa-4d2e-9835-e67cd66cc35f")
+			(uuid "6b913f15-d333-46d4-af2f-8942c4e8fb76")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX113")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX113")
@@ -6403,7 +6205,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8e4f2cb-bcf1-44c6-887c-a10af19521b3")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0130"
 			(at 178.816 32.258 0)
 			(effects
 				(font
@@ -6448,15 +6250,9 @@
 			)
 		)
 		(pin "1"
-			(uuid "9ce64ac7-02e0-478b-a1d3-c39826c09556")
+			(uuid "0b3aaf1f-8bfb-485e-a84d-14380ab5baaf")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/f28c023c-5345-4c19-9d2c-61cc52427b4f"
-					(reference "#PWR0123")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "#PWR0130")
@@ -6475,7 +6271,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db716199-e691-4ea7-96e2-89bdcc775de6")
-		(property "Reference" "D106"
+		(property "Reference" "D104"
 			(at 55.118 34.798 90)
 			(effects
 				(font
@@ -6550,18 +6346,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b5a16c8c-df42-4eff-8b80-56fab80e4569")
+			(uuid "0db880f5-1247-4d5a-bd4d-96e1ded4ce58")
 		)
 		(pin "2"
-			(uuid "4dcebdf4-4a48-4133-9f7c-02055a8f2db1")
+			(uuid "91d6b2d0-01f4-44fa-a604-ee2574407a79")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D106")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D104")
@@ -6580,7 +6370,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db9090d9-255e-46ef-853a-86c952a3bab5")
-		(property "Reference" "D109"
+		(property "Reference" "D107"
 			(at 72.898 34.798 90)
 			(effects
 				(font
@@ -6655,18 +6445,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "719761cc-6a01-4d5a-9dec-753248b531e1")
+			(uuid "3c79c0ef-8766-4490-bca4-7042f4a03e85")
 		)
 		(pin "2"
-			(uuid "8c25e9d7-b852-4b69-89e5-e7d367d462bd")
+			(uuid "a12e8243-0a5b-4f06-baec-412058f2876d")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D109")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D107")
@@ -6684,7 +6468,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4feac48-41f3-40cb-a89d-05db16140c13")
-		(property "Reference" "D108"
+		(property "Reference" "D106"
 			(at 55.118 65.278 90)
 			(effects
 				(font
@@ -6759,18 +6543,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "88ac38a0-4fc4-4961-80c5-cfdbe8c04df9")
+			(uuid "624a3d5f-2286-43ba-aea7-90a9b1dea88e")
 		)
 		(pin "2"
-			(uuid "146170a6-0db1-43e9-a882-3e77a5aaba8f")
+			(uuid "644562bc-880f-48b2-bb4e-9cd42269e367")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D108")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D106")
@@ -6834,18 +6612,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "63e6f478-7d03-40b8-87bf-b0fda8616301")
+			(uuid "25efb25e-b395-49cd-b013-554c444da52c")
 		)
 		(pin "2"
-			(uuid "353d74fc-7cf8-4ed8-b357-dfa8dd24e9dc")
+			(uuid "91a6cba7-5b62-43ff-8244-90a4d18ae036")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "MX104")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "MX104")
@@ -6864,7 +6636,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f90d7310-d016-4718-b9b9-c9165e0c067c")
-		(property "Reference" "D114"
+		(property "Reference" "D112"
 			(at 90.678 65.278 90)
 			(effects
 				(font
@@ -6939,18 +6711,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "08655359-35f3-44f0-87ff-bcd15d171398")
+			(uuid "34b27b8e-18ed-4eea-a355-de821433e96e")
 		)
 		(pin "2"
-			(uuid "3388f95a-bab4-4199-9566-7654f916dde4")
+			(uuid "01d96d34-638d-43a5-9528-4b16dd1139c2")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/5580a904-7bd9-4759-a9e8-818fa098d658"
-					(reference "D114")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "D112")
@@ -6968,7 +6734,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fe98ba5e-ed3f-44a2-8b85-c331c5b0f227")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0125"
 			(at 150.368 29.718 0)
 			(effects
 				(font
@@ -7013,15 +6779,9 @@
 			)
 		)
 		(pin "1"
-			(uuid "0475b4c6-2fef-44bc-aede-61aaeb4f8782")
+			(uuid "a9264f64-26b2-4aff-b630-c4b4e3c4d329")
 		)
 		(instances
-			(project "keyboard"
-				(path "/b30f8099-44b7-4a25-baac-7313b691a73e/f28c023c-5345-4c19-9d2c-61cc52427b4f"
-					(reference "#PWR0121")
-					(unit 1)
-				)
-			)
 			(project "Interface"
 				(path "/c9f596c2-7857-4b11-bdf6-e9f4a0e624c2/fe52d998-1c79-453f-8784-76d0e74ea227"
 					(reference "#PWR0125")
